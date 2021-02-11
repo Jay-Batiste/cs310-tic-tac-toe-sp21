@@ -13,7 +13,7 @@ apply plugin: 'jacoco'
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
-version = '1.0'
+version = '2.0'
 
 mainClassName = 'edu.jsu.mcis.cs310.tictactoe.TicTacToe'
 

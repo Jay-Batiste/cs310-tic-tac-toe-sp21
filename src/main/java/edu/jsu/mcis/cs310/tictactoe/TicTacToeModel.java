@@ -4,7 +4,7 @@ package edu.jsu.mcis.cs310.tictactoe;
 * TicTacToeModel implements the Model for the Tic-Tac-Toe game.
 *
 * @author  Jada Batiste
-* @version 1.0
+* @version 2.0
 */
 public class TicTacToeModel {
     
@@ -300,7 +300,7 @@ public class TicTacToeModel {
     @Override
     public String toString() {
         
-        StringBuilder output = new StringBuilder();
+        StringBuilder output = new StringBuilder(" ");
         
         output.append("\n");
         output.append(" ");
